@@ -104,15 +104,13 @@ A horizontally scalable, real-time visitor check-in platform built with **Golang
 
 `Go` · `gRPC` · `Redis Pub/Sub` · `Docker Compose` · `Next.js` · `Flutter`
 
-### 📚 BookStore Management System
-A bookstore management application covering inventory and order workflows.
+### 🍽️ [InstaDish UPI](https://github.com/GoravG/instadish-upi)
+A single-business, mobile-first digital menu with cart and **UPI checkout** (deep link + scannable QR) — a fully **static** Next.js site with no server or database.
+- Rebrand for a new business in minutes via an included **local admin panel** (branding, OKLCH theming, Excel menu import/export, asset uploads).
+- Live UPI QR + deep link that encode the **real-time cart total**; light/dark mode out of the box.
+- One-click static build, deployable to Cloudflare Pages, Vercel, Netlify, or any CDN.
 
-`Java` · `Spring Boot` · `React` · `Bootstrap`
-
-### 💉 Vaccination Portal
-A portal for managing vaccination registrations and scheduling.
-
-`React` · `Spring Boot` · `MySQL`
+`Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS` · `shadcn/ui` · `Zustand`
 
 ---
 
